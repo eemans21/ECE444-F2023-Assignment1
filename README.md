@@ -15,5 +15,6 @@ Activity 4
 ![image](https://github.com/eemans21/ECE444-F2023-Assignment1/assets/74782082/71a10c76-5081-40eb-8b01-ccb7bf8be90b)
 
 Activity 5
+
 ![image](https://github.com/eemans21/ECE444-F2023-Assignment1/assets/74782082/4cb15dba-cdc3-4c56-ae3e-f27d26b9118f)
 ![image](https://github.com/eemans21/ECE444-F2023-Assignment1/assets/74782082/9a047056-2dcc-4717-95de-27165a5db2a7)
