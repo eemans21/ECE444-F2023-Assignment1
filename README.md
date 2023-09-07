@@ -8,3 +8,6 @@ Activity 2
 
 Activity 3
 ![image](https://github.com/eemans21/ECE444-F2023-Assignment1/assets/74782082/4f14294b-9f98-4625-9b71-fdb0b12945de)
+
+Activity 4
+![image](https://github.com/eemans21/ECE444-F2023-Assignment1/assets/74782082/067bf2ba-c914-4a58-8946-0341dba972d4)
