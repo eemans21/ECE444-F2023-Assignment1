@@ -13,3 +13,7 @@ Activity 4
 ![image](https://github.com/eemans21/ECE444-F2023-Assignment1/assets/74782082/067bf2ba-c914-4a58-8946-0341dba972d4)
 ![image](https://github.com/eemans21/ECE444-F2023-Assignment1/assets/74782082/8728c0a0-79d4-4776-b805-759815b5e65d)
 ![image](https://github.com/eemans21/ECE444-F2023-Assignment1/assets/74782082/71a10c76-5081-40eb-8b01-ccb7bf8be90b)
+
+Activity 5
+![image](https://github.com/eemans21/ECE444-F2023-Assignment1/assets/74782082/1f2056b9-2164-4193-a4ab-84aad32654d0)
+![image](https://github.com/eemans21/ECE444-F2023-Assignment1/assets/74782082/4772d6de-f10b-4ecc-9aa6-629812ca04e5)
