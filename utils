@@ -1,0 +1,19 @@
+class Utils:
+    @staticmethod
+    def reverse_number(integer):
+        if isinstance(integer, int):
+            reversed_str = str(integer)[::-1]
+            if integer < 0:
+                reversed_str = "-" + reversed_str[:-1] 
+            return int(reversed_str)
+        else:
+            raise ValueError("Input must be an integer")
+
+    @staticmethod
+    def format_number(integer):
+        if isinstance(integer, int):
+            binary = bin(integer)
+            octal = oct(integer)
+            return binary, octal
+        else:
+            raise ValueError("Input must be an integer")
