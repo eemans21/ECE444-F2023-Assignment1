@@ -1,0 +1,29 @@
+import unittest
+from utils import Utils
+
+class utils_tests(unittest.TestCase):
+    def test_reverse_int(self):
+        self.assertEqual(Utils.reverse_number(132), 231)
+        self.assertEqual(Utils.reverse_number(-132), -231)
+    
+    def test_reverse_str(self):
+        with self.assertRaises(ValueError):
+            Utils.reverse_number("hello world")
+
+    def test_reverse_float(self):
+        with self.assertRaises(ValueError):
+            Utils.reverse_number(123.4)
+
+    def test_format_int(self):
+        self.assertEqual(Utils.format_number(132), ('0b10000100', '0o204'))
+
+    def test_format_str(self):
+        with self.assertRaises(ValueError):
+            Utils.format_number("hello world")
+
+    def test_format_float(self):
+        with self.assertRaises(ValueError):
+            Utils.format_number(123.4)
+
+if __name__ == '__main__':
+    unittest.main()
